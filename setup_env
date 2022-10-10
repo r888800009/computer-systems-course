@@ -1,0 +1,3 @@
+init-gef
+set disassembly-flavor att
+gef config context.grow_stack_down True
